@@ -53,6 +53,6 @@ Para rodar esse projeto você precisará ter instalado em sua máquina (host) as
 ---
 ## Instalação
 
-**1.** **Instale** todas as **dependências** dos **projetos** contidos na solução.
-**2.** Faça o **build** da **solução**.
-**3.** Depois **rode** todos os **projetos** em **paralelo**, **exceto** os projetos **MessageBus** e **PaymentProcessor** (tudo já está configurado).
+1. **Instale** todas as **dependências** dos **projetos** contidos na solução.
+2. Faça o **build** da **solução**.
+3. Depois **rode** todos os **projetos** em **paralelo**, **exceto** os projetos **MessageBus** e **PaymentProcessor** (tudo já está configurado).
